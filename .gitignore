@@ -1,0 +1,9 @@
+# Ignore Python cache 
+__pycache__/ 
+*.pyc 
+# Ignore IDE/project settings 
+.idea/ 
+# Ignore Robot Framework output files 
+log.html 
+output.xml 
+report.html 
